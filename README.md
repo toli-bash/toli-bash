@@ -1,5 +1,5 @@
 <!-- Optional Banner Image -->
-![Banner](https://drive.google.com/drive/u/0/folders/1O67LyEpY-Ivkl2BTJh56oX-eEd9TwLP)
+![Banner](https://drive.google.com/uc?export=view&id=15FB08Yr5jtgEaT33Mhy7YYvLW13hvnb3)
 
 <!-- Animated typing header -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1800&color=2F80ED&width=780&lines=Hi%2C+I'm+Toli+Bashir;Data+Analyst+%7C+Aspiring+Data+Scientist+%7C+Back-End+Developer)
