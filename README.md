@@ -4,7 +4,7 @@
 - 👀 I'm interested in building scalable back-end systems and powerful APIs. I love learning new technologies and applying them to solve real-world problems.  
 - 🌱 I'm currently learning through the ALX Back-End Pro Developer program, diving into Python, Node.js, SQL/NoSQL databases, and cloud deployment. I continuously expand my skillset by exploring new tools and techniques.  
 - 💞️ I'm looking to collaborate on ambitious projects, especially those involving HR tech, payroll automation, web system optimization, and data-driven applications. My goal is to leverage my domain experience to build impactful software solutions.  
-- 📫 How to reach me: You can find me on LinkedIn at[https://www.linkedin.com/in/tolibashir](https://www.linkedin.com/in/toli-bashir-661574359)) or email me at tolibashir321@gmail.com. I'm always open to discussions about new opportunities.  
+- 📫 How to reach me: You can find me on LinkedIn at[https://www.linkedin.com/in/tolibashir](https://www.linkedin.com/in/toli-bashir-661574359)) or email me at tolibashir474@gmail.com. I'm always open to discussions about new opportunities.  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I challenge myself to learn something new every month — whether it's a programming language, a new tool, or a fun hobby — to keep my curiosity and skills sharp.  
 
