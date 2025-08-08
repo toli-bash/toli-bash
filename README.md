@@ -1,47 +1,114 @@
-# Toli Bashir - Aspiring Back-End Developer
+<!-- Optional Banner Image -->
+![Banner](https://github.com/your-username/your-repo/blob/main/banner.png)
 
-- 👋 Hi, I'm @toli-bash, a career changer and aspiring back-end developer. After years in sales and marketing, I pivoted to software engineering to build solutions that streamline complex business processes.  
-- 👀 I'm interested in building scalable back-end systems and powerful APIs. I love learning new technologies and applying them to solve real-world problems.  
-- 🌱 I'm currently learning through the ALX Back-End Pro Developer program, diving into Python, Node.js, SQL/NoSQL databases, and cloud deployment. I continuously expand my skillset by exploring new tools and techniques.  
-- 💞️ I'm looking to collaborate on ambitious projects, especially those involving HR tech, payroll automation, web system optimization, and data-driven applications. My goal is to leverage my domain experience to build impactful software solutions.  
-- 📫 How to reach me: You can find me on LinkedIn at [https://www.linkedin.com/in/toli-bashir](https://www.linkedin.com/in/toli-bashir) or email me at tolibashir474@gmail.com. I'm always open to discussions about new opportunities.  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I challenge myself to learn something new every month — whether it's a programming language, a new tool, or a fun hobby — to keep my curiosity and skills sharp.  
+<!-- Animated typing header -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1800&color=2F80ED&width=780&lines=Hi%2C+I'm+Toli+Bashir;Data+Analyst+%7C+Aspiring+Data+Scientist+%7C+Back-End+Developer)
 
-## About Me
+# 👋 Hi, I'm **Toli Bashir**  
+**Data Analyst | Aspiring Data Scientist & Back-End Developer**  
+*Turning data into decisions & code into solutions.*
 
-As a dynamic Data Analyst, I transform complex datasets into actionable insights, solving business challenges through data-driven strategies. My passion for patterns and problem-solving led me to develop robust skills in data extraction, cleaning, analysis, and visualization. I've successfully delivered projects that informed strategic decisions, optimized processes, and uncovered growth opportunities.
+---
 
-My expertise covers critical data tools and techniques. I'm highly proficient in SQL for data querying, and adept at Python (Pandas, NumPy, Matplotlib, Seaborn) for advanced analysis and automation. I leverage Power BI and Tableau for impactful data storytelling and interactive dashboards. My foundational data science knowledge is solidified by certifications in "
+## 🔹 About Me  
+💡 Career changer with 2.6+ years in sales & marketing, now crafting **scalable back-end systems** and **data-driven applications**.  
+🔍 I bridge **business understanding** with **technical execution**, delivering analytics and backend solutions that solve real-world problems.  
 
-Data Science Math Skills" from Duke University and "
+<details>
+<summary>📜 Read more</summary>
 
+I’m passionate about turning raw data into meaningful insights and building systems that solve real business problems.  
+My journey combines strong business acumen with solid technical skills in:
 
-The Data Scientist's Toolbox" from Johns Hopkins University. I also have hands-on experience with 
+- **Data Analysis & Visualization**: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R, Power BI, Tableau  
+- **Back-End Development**: Node.js, API design, SQL/NoSQL  
+- **Cloud Platforms**: AWS, Azure  
 
+I’m committed to continuous learning and collaboration across diverse teams.  
+</details>
 
-cloud platforms like Azure and AWS for scalable data solutions. Committed to continuous learning, I hold certifications in "
+---
 
-R Programming" from Johns Hopkins University and "
+## 🛠 Tech Stack & Tools  
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-Excel Fundamentals for Data Analysis" from Macquarie University. My "HTML & CSS 101 - Web Development Fundamentals" certification  and "Professional Development Skills for the Digital Age" through ALX further underscore my diverse skill set and collaborative approach.
+---
 
+## 📂 Featured Projects  
 
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [**Maji Ndogo Water Project**](#) | Power BI dashboard analyzing water accessibility for better resource allocation. | Power BI, SQL, Data Cleaning |
+| [**HR Payroll Automation System**](#) | Streamlined payroll process using Python & SQL for automation. | Python, SQL, Excel |
+| [**Sales Forecasting Model**](#) | Predictive analytics model to forecast sales trends and revenue. | Python, Pandas, Scikit-learn |
 
-I'm eager to contribute my analytical prowess to forward-thinking, global organizations. I advocate for data literacy and enjoy collaborating with cross-functional teams to drive collective success.
+> ⚠️ Replace the `#` links above with your actual project repo or live demo links.
 
-Skills & Tools: Data Analysis, Business Intelligence, SQL, Python, Power BI, Tableau, Azure, AWS, Excel, R, Statistical Modeling, Data Visualization, Data Cleaning, ETL, Predictive Analytics, Problem Solving.
+---
 
-Open to exciting international opportunities. Let's connect to explore how my skills can benefit your organization! Reach out via LinkedIn message or at [Your Email Address].
+<details>
+<summary>🎓 Certifications</summary>
 
-Certified in: Data Science Math Skills | Data Scientist’s Toolbox | R Programming | Excel Fundamentals | HTML & CSS Fundamentals
-## Areas of Interest
+- **Data Science Math Skills** – Duke University  
+- **The Data Scientist’s Toolbox** – Johns Hopkins University  
+- **R Programming** – Johns Hopkins University  
+- **Excel Fundamentals for Data Analysis** – Macquarie University  
+- **HTML & CSS Fundamentals** – Zenva Academy  
+- **Professional Development Skills for the Digital Age** – ALX  
 
-- SAP HCM & Payroll Processing  
-- Web Development & System Optimization  
-- Data Entry & Management (Excel, CRM)  
-- HRIS & Payroll Administration  
-- Compensation & Benefits Analysis  
-- Employee Record Management & Compliance  
-- Reporting & Data Analysis  
+</details>
+
+---
+
+<details>
+<summary>🌍 Areas of Interest</summary>
+
+- Data Science & Business Intelligence  
+- Scalable Back-End Systems & API Development  
+- HR Tech & Payroll Automation  
+- Web System Optimization  
+
+</details>
+
+---
+
+## 📊 GitHub Stats  
+
+![Toli's GitHub stats](https://github-readme-stats.vercel.app/api?username=toli-bash&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toli-bash&layout=compact&theme=radical)  
+
+---
+
+## 📈 GitHub Activity  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toli-bash&theme=radical)  
+
+---
+
+## 📫 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toli-bashir)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tolibashir474@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR-PORTFOLIO-LINK)  
+
+> 🔁 Replace `YOUR-PORTFOLIO-LINK` with your Google Sites portfolio URL.
+
+---
+
+## 👀 Profile Views  
+
+![Profile Views](https://komarev.com/ghpvc/?username=toli-bash&label=Profile%20Views&color=blue&style=flat)  
+
+---
+
+⚡ **Fun fact:** I learn something new every month — from a programming language to a quirky hobby — to keep curiosity alive and skills sharp.
