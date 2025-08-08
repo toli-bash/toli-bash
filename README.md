@@ -1,5 +1,5 @@
 <!-- Optional Banner Image -->
-![Banner]([https://drive.google.com/drive/u/0/folders/1O67LyEpY-Ivkl2BTJh56oX-eEd9TwLP])
+![Banner](https://drive.google.com/drive/u/0/folders/1O67LyEpY-Ivkl2BTJh56oX-eEd9TwLP)
 
 <!-- Animated typing header -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1800&color=2F80ED&width=780&lines=Hi%2C+I'm+Toli+Bashir;Data+Analyst+%7C+Aspiring+Data+Scientist+%7C+Back-End+Developer)
@@ -48,7 +48,7 @@ I’m committed to continuous learning and collaboration across diverse teams.
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [**Maji Ndogo Water Project**](([https://drive.google.com/drive/u/0/folders/1EyGhT0BxREi5DOm0izoU8MK1ZQdOrrXn]) | Developed an interactive Power BI dashboard to analyze water accessibility patterns, helping inform better resource allocation strategies. | Power BI, SQL, Data Cleaning |
+| [**Maji Ndogo Water Project**](https://drive.google.com/drive/u/0/folders/1EyGhT0BxREi5DOm0izoU8MK1ZQdOrrXn) | Developed an interactive Power BI dashboard to analyze water accessibility patterns, helping inform better resource allocation strategies. | Power BI, SQL, Data Cleaning |
 | [**HR Payroll Automation System**](https://github.com/toli-bash/HR-Payroll-Automation) | Automated payroll calculations and reporting for HR teams, reducing processing time by 65% using Python and SQL. | Python, SQL, Excel |
 | [**Sales Forecasting Model**](https://github.com/toli-bash/Sales-Forecasting-Model) | Built a machine learning model to predict sales trends, improving forecast accuracy by 20% for marketing campaigns. | Python, Pandas, Scikit-learn |
 
