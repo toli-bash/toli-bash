@@ -1,5 +1,5 @@
 <!-- Optional Banner Image -->
-![Banner](https://github.com/your-username/your-repo/blob/main/banner.png)
+![Banner]([https://github.com/your-username/your-repo/blob/main/banner.png](https://drive.google.com/drive/u/0/folders/1O67LyEpY-Ivkl2BTJh56oX-eEd9TwLPt))
 
 <!-- Animated typing header -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1800&color=2F80ED&width=780&lines=Hi%2C+I'm+Toli+Bashir;Data+Analyst+%7C+Aspiring+Data+Scientist+%7C+Back-End+Developer)
@@ -48,11 +48,57 @@ I’m committed to continuous learning and collaboration across diverse teams.
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [**Maji Ndogo Water Project**](#) | Power BI dashboard analyzing water accessibility for better resource allocation. | Power BI, SQL, Data Cleaning |
-| [**HR Payroll Automation System**](#) | Streamlined payroll process using Python & SQL for automation. | Python, SQL, Excel |
-| [**Sales Forecasting Model**](#) | Predictive analytics model to forecast sales trends and revenue. | Python, Pandas, Scikit-learn |
+| [**Maji Ndogo Water Project**]([https://github.com/toli-bash/Maji-Ndogo-Water-Project](https://drive.google.com/drive/u/0/folders/1EyGhT0BxREi5DOm0izoU8MK1ZQdOrrXn)) | Developed an interactive Power BI dashboard to analyze water accessibility patterns, helping inform better resource allocation strategies. | Power BI, SQL, Data Cleaning |
+| [**HR Payroll Automation System**](https://github.com/toli-bash/HR-Payroll-Automation) | Automated payroll calculations and reporting for HR teams, reducing processing time by 65% using Python and SQL. | Python, SQL, Excel |
+| [**Sales Forecasting Model**](https://github.com/toli-bash/Sales-Forecasting-Model) | Built a machine learning model to predict sales trends, improving forecast accuracy by 20% for marketing campaigns. | Python, Pandas, Scikit-learn |
 
-> ⚠️ Replace the `#` links above with your actual project repo or live demo links.
+# Maji Ndogo Water Project
+## Overview
+An analytics project to evaluate water accessibility in underserved regions. Designed an interactive Power BI dashboard to track consumption patterns and identify areas needing infrastructure improvements.
+
+## Features
+- Data cleaning and transformation using SQL
+- KPI metrics: water coverage %, average consumption per household
+- Interactive filters for location, year, and water source type
+
+## Tools & Tech
+Power BI, SQL, Excel
+
+## Impact
+Insights from this dashboard can be used by policymakers to make informed water resource allocation decisions.
+
+# HR Payroll Automation System
+## Overview
+A Python + SQL application to automate payroll processing, including salary calculations, tax deductions, and PDF payslip generation.
+
+## Features
+- Automated salary computation with deductions
+- Employee record management
+- Exportable reports in Excel and PDF
+- Error handling and logging
+
+## Tools & Tech
+Python (Pandas, NumPy), SQL, Excel
+
+## Impact
+Reduced payroll processing time by 65% and minimized human errors in calculations.
+
+# Sales Forecasting Model
+## Overview
+A predictive analytics solution using machine learning to forecast sales for upcoming months, helping marketing teams optimize campaigns and budgets.
+
+## Features
+- Historical sales data analysis
+- Feature engineering for seasonality trends
+- Model evaluation using RMSE and MAE metrics
+- Forecast visualization in Matplotlib
+
+## Tools & Tech
+Python (Pandas, NumPy, Scikit-learn, Matplotlib), Excel
+
+## Impact
+Improved forecast accuracy by 20%, enabling better strategic decision-making.
+
 
 ---
 
