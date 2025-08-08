@@ -10,8 +10,32 @@
 
 ## About Me
 
-I am a dedicated learner in the ALX Back-End Pro Developer program, revamping my GitHub profile to stand out in my job search. I transitioned to software engineering after years of experience in HR and payroll administration, driven by a passion for solving complex problems with code. I am inspired by the challenge of building powerful systems that simplify business workflows and improve user experiences. My vision is to develop one of the most reliable and scalable APIs and web applications in the industry. I aim to work on projects in domains like payroll processing, HRIS administration, data management, and system optimization, where I can blend my industry knowledge with my technical skills.
+As a dynamic Data Analyst, I transform complex datasets into actionable insights, solving business challenges through data-driven strategies. My passion for patterns and problem-solving led me to develop robust skills in data extraction, cleaning, analysis, and visualization. I've successfully delivered projects that informed strategic decisions, optimized processes, and uncovered growth opportunities.
 
+My expertise covers critical data tools and techniques. I'm highly proficient in SQL for data querying, and adept at Python (Pandas, NumPy, Matplotlib, Seaborn) for advanced analysis and automation. I leverage Power BI and Tableau for impactful data storytelling and interactive dashboards. My foundational data science knowledge is solidified by certifications in "
+
+Data Science Math Skills" from Duke University and "
+
+
+The Data Scientist's Toolbox" from Johns Hopkins University. I also have hands-on experience with 
+
+
+cloud platforms like Azure and AWS for scalable data solutions. Committed to continuous learning, I hold certifications in "
+
+R Programming" from Johns Hopkins University and "
+
+
+Excel Fundamentals for Data Analysis" from Macquarie University. My "HTML & CSS 101 - Web Development Fundamentals" certification  and "Professional Development Skills for the Digital Age" through ALX further underscore my diverse skill set and collaborative approach.
+
+
+
+I'm eager to contribute my analytical prowess to forward-thinking, global organizations. I advocate for data literacy and enjoy collaborating with cross-functional teams to drive collective success.
+
+Skills & Tools: Data Analysis, Business Intelligence, SQL, Python, Power BI, Tableau, Azure, AWS, Excel, R, Statistical Modeling, Data Visualization, Data Cleaning, ETL, Predictive Analytics, Problem Solving.
+
+Open to exciting international opportunities. Let's connect to explore how my skills can benefit your organization! Reach out via LinkedIn message or at [Your Email Address].
+
+Certified in: Data Science Math Skills | Data Scientist’s Toolbox | R Programming | Excel Fundamentals | HTML & CSS Fundamentals
 ## Areas of Interest
 
 - SAP HCM & Payroll Processing  
