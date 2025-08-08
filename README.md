@@ -145,9 +145,8 @@ Improved forecast accuracy by 20%, enabling better strategic decision-making.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toli-bashir)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tolibashir474@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR-PORTFOLIO-LINK)  
-
-> 🔁 Replace `YOUR-PORTFOLIO-LINK` with your Google Sites portfolio URL.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/
+tolibashir)
 
 ---
 
